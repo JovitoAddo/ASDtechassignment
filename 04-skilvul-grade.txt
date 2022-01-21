@@ -1,0 +1,4 @@
+if nilai awal <7.0
+print(nilai awal)
+	else = math.round(nilai awal)
+		print final grade

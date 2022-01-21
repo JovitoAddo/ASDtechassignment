@@ -1,0 +1,47 @@
+i = x
+if i=i.reverse
+output TRUE
+else{
+output FALSE}
+
+i = x
+if i=i.reverse
+output TRUE
+else{
+output FALSE}
+
+i = abba
+if i=i.reverse
+output TRUE
+else{
+output FALSE}
+
+i = 101
+if i=i.reverse
+output TRUE
+else{
+output FALSE}
+
+i = taco cat
+if i=i.reverse
+output TRUE
+else{
+output FALSE}
+
+i = kodok
+if i=i.reverse
+output TRUE
+else{
+output FALSE}
+
+i = ab
+if i=i.reverse
+output TRUE
+else{
+output FALSE}
+
+i = abaa
+if i=i.reverse
+output TRUE
+else{
+output FALSE}

@@ -1,0 +1,14 @@
+fahrenheit to celsius = (N - 32) * (5/9)
+kelvin to celcius = (N - 273.15)
+celcius to celcius = N
+
+
+input 1:
+	N = 86
+	fahrenheitToCelcius = (86-32)*(5/9)
+	DISPLAY 30
+
+input 2:
+	N = 45
+	celsiusToCelcius = N
+	DISPLAY 45
